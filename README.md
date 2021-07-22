@@ -1,5 +1,5 @@
-## Hi! I'm Nishant, Currently a CSE undergraduate, and a Django Backend Developer. I can work in Python and Javascript.
-
+## Hi! I'm Nishant, Currently a CSE undergraduate, and a Django Backend Developer. I can work in Python and Javascript, preferrably in Python
+### I've got special interests in MACHINE LEARNING and DATA ANALYSIS.
 
 
 ### Contact me via Email nishant-ai@outlook.com
