@@ -3,7 +3,7 @@
 
 
 ### Contact me via Email nishant-ai@outlook.com
-### Connect with me on LinkedIn https://www.linkedin.com/in/nishant-sharma-b0560b209/
+### Connect with me on LinkedIn https://www.linkedin.com/in/nishantsh20
 
 ### My GitHub Stats :-
 
