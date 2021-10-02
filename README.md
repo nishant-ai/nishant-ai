@@ -6,6 +6,8 @@
 ### LinkedIn https://www.linkedin.com/in/nishantsh20
 ![counter](https://enrietaqe0twvws.m.pipedream.net)
 <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishant-ai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<center>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishant-ai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</center>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishant-ai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</a>
