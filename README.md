@@ -2,9 +2,21 @@
  <img src="https://github.com/nishant-ai/nishant-ai/blob/main/Nishant.png" />
 </h1>
 
+<p align="right">![counter](https://enrietaqe0twvws.m.pipedream.net)</p>
+
 <h3> Hi! I'm Nishant Sharma, a CSE Undergrad.<h3>
 <hr>
-<p align="center">
+
+<p>
+ <a href = "mailto: nishant-ai@outlook.com"><h6>Email Me 📬</h6></a>
+ </p>
+ <p>
+<a href = "https://www.linkedin.com/in/nishantsh20"><h6>Connect via LinkedIn 🌐</h6></a>
+ </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishant-ai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+ <p align="center">
   <code><img title="Python" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg"></code>
   <code><img title="C++" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
   <code><img title="C" height="25" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/c/c-original.svg"></code>
@@ -15,13 +27,3 @@
   <code><img title="GitHub" height="25" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/github/github-original.svg"></code>
 </code>
 </p>
-<p>
- <a href = "mailto: nishant-ai@outlook.com"><h6>Email Me 📬</h6></a>
- </p>
- <p>
-<a href = "https://www.linkedin.com/in/nishantsh20"><h6>Connect via LinkedIn 🌐</h6></a>
- </p>
-
-![counter](https://enrietaqe0twvws.m.pipedream.net)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishant-ai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
