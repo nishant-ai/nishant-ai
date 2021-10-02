@@ -5,7 +5,7 @@
 ### Contact me nishant-ai@outlook.com
 ### LinkedIn https://www.linkedin.com/in/nishantsh20
 
-![til](https://media.giphy.com/media/YKSpJJwVP7G00/giphy.gif)
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
 
 ![counter](https://enrietaqe0twvws.m.pipedream.net)
 
