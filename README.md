@@ -3,7 +3,6 @@
 </h1>
 
 ## Hi! I'm Nishant, a CSE undergrad, with experience of 3 years of programming.
-<h2>🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <hr>
 <p align="center">
   <code><img title="Python" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg"></code>
