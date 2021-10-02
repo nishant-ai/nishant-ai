@@ -5,7 +5,7 @@
 ### Contact me nishant-ai@outlook.com
 ### LinkedIn https://www.linkedin.com/in/nishantsh20
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishant-ai)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ![counter](https://enrietaqe0twvws.m.pipedream.net)
-
