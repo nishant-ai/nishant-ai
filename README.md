@@ -13,9 +13,9 @@
  <p>
 <a href = "https://www.linkedin.com/in/nishantsh20"><h6>Connect via LinkedIn 🌐</h6></a>
  </p>
- <a align="center">
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishant-ai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
- </a>
+ <p align="center">
+ <code>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishant-ai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</code>
+ </p>
 
  <p align="center">
   <code><img title="Python" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg"></code>
