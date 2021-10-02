@@ -16,8 +16,9 @@
 </code>
 </p>
 
-<a href = "mailto: nishant-ai@outlook.com"><b>Email Me📬</b></a>
-<a href = "https://www.linkedin.com/in/nishantsh20"><b>LinkedIn 🌐</b></a>
+<a href = "mailto: nishant-ai@outlook.com"><h6>Email Me 📬</h6></a>
+<br>
+<a href = "https://www.linkedin.com/in/nishantsh20"><h6>Connect with me on LinkedIn 🌐</h6></a>
 
 ![counter](https://enrietaqe0twvws.m.pipedream.net)
 
