@@ -2,9 +2,9 @@
  <img src="https://github.com/nishant-ai/nishant-ai/blob/main/Nishant.png" />
 </h1>
 
-<a align="right">![counter](https://enrietaqe0twvws.m.pipedream.net)</a>
+![counter](https://enrietaqe0twvws.m.pipedream.net)
 
-<h3> Hi! I'm Nishant Sharma, a CSE Undergrad.<h3>
+<h3> Hi! I'm Nishant Sharma, a CSE Undergrad, and a Python Programmer.<h3>
 <hr>
 
 <p>
@@ -13,8 +13,9 @@
  <p>
 <a href = "https://www.linkedin.com/in/nishantsh20"><h6>Connect via LinkedIn 🌐</h6></a>
  </p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishant-ai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ <p align="center">
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishant-ai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ </p>
 
  <p align="center">
   <code><img title="Python" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg"></code>
