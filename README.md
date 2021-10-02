@@ -2,8 +2,8 @@
 ### I've got special interests in MACHINE LEARNING and DATA ANALYSIS.
 
 
-### Contact me nishant-ai@outlook.com
-### LinkedIn https://www.linkedin.com/in/nishantsh20
+### Email :- nishant-ai@outlook.com
+<a href = "https://www.linkedin.com/in/nishantsh20">LinkedIn</a>
 
 ![counter](https://enrietaqe0twvws.m.pipedream.net)
 
