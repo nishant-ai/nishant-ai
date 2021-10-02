@@ -2,7 +2,7 @@
  <img src="https://github.com/nishant-ai/nishant-ai/blob/main/Nishant.png" />
 </h1>
 
-<h3> Hi! I'm Nishant, a CSE undergrad, with experience of 3 years of programming. <h3>
+<h3> Hi! I'm Nishant Sharma, a CSE Undergrad.<h3>
 <hr>
 <p align="center">
   <code><img title="Python" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg"></code>
@@ -16,11 +16,9 @@
 </code>
 </p>
 
-#### Email :- <a href = "mailto: nishant-ai@outlook.com">📬 Mail</a>
-#### LinkedIn :- <a href = "https://www.linkedin.com/in/nishantsh20">🌐 LinkedIn</a>
+<a href = "mailto: nishant-ai@outlook.com"><b>Email Me📬</b></a>
+<a href = "https://www.linkedin.com/in/nishantsh20"><b>LinkedIn 🌐</b></a>
 
 ![counter](https://enrietaqe0twvws.m.pipedream.net)
-
-<hr>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishant-ai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
