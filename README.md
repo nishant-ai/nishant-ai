@@ -4,9 +4,10 @@
 
 ### Contact me nishant-ai@outlook.com
 ### LinkedIn https://www.linkedin.com/in/nishantsh20
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishant-ai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
 ![counter](https://enrietaqe0twvws.m.pipedream.net)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishant-ai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
