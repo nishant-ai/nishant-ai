@@ -1,3 +1,7 @@
+<h1 align="center">
+ <img src="https://github.com/nishant-ai/nishant-ai/blob/main/Nishant.png" />
+</h1>
+
 ## Hi! I'm Nishant, a CSE undergrad, and a Django Developer. with an experience of 2 years of coding.
 ### I've got special interests in MACHINE LEARNING and DATA ANALYSIS.
 
