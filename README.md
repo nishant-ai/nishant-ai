@@ -6,7 +6,7 @@
 ### LinkedIn https://www.linkedin.com/in/nishantsh20
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Nishant%10Sharma)
+![Github stats](https://github-readme-stats.vercel.app/api?username=Nishant%20Sharma)
 
 ![counter](https://enrietaqe0twvws.m.pipedream.net)
 
