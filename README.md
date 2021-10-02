@@ -2,7 +2,7 @@
  <img src="https://github.com/nishant-ai/nishant-ai/blob/main/Nishant.png" />
 </h1>
 
-<p align="right">![counter](https://enrietaqe0twvws.m.pipedream.net)</p>
+<a align="right">![counter](https://enrietaqe0twvws.m.pipedream.net)</a>
 
 <h3> Hi! I'm Nishant Sharma, a CSE Undergrad.<h3>
 <hr>
