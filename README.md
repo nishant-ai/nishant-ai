@@ -2,7 +2,7 @@
 ### I've got special interests in MACHINE LEARNING and DATA ANALYSIS.
 
 
-### Email :- nishant-ai@outlook.com
+#### Email :- nishant-ai@outlook.com
 #### LinkedIn :- <a href = "https://www.linkedin.com/in/nishantsh20">Nishant Sharma</a>
 
 ![counter](https://enrietaqe0twvws.m.pipedream.net)
