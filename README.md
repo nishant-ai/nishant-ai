@@ -15,10 +15,12 @@
   <code><img title="GitHub" height="25" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/github/github-original.svg"></code>
 </code>
 </p>
-
-<a href = "mailto: nishant-ai@outlook.com"><h6>Email Me 📬</h6></a>
-<br>
-<a href = "https://www.linkedin.com/in/nishantsh20"><h6>Connect with me on LinkedIn 🌐</h6></a>
+<p>
+ <a href = "mailto: nishant-ai@outlook.com"><h6>Email Me 📬</h6></a>
+ </p>
+ <p>
+<a href = "https://www.linkedin.com/in/nishantsh20"><h6>Connect via LinkedIn 🌐</h6></a>
+ </p>
 
 ![counter](https://enrietaqe0twvws.m.pipedream.net)
 
