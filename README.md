@@ -3,7 +3,7 @@
 </h1>
 
 ## Hi! I'm Nishant, a CSE undergrad, with experience of 3 years of programming.
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<h2>🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <hr>
 <p align="center">
   <code><img title="Python" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg"></code>
@@ -18,7 +18,6 @@
 </p>
 
 #### Email :- <a href = "mailto: nishant-ai@outlook.com">📬 Mail</a>
- 
 #### LinkedIn :- <a href = "https://www.linkedin.com/in/nishantsh20">🌐 LinkedIn</a>
 
 ![counter](https://enrietaqe0twvws.m.pipedream.net)
