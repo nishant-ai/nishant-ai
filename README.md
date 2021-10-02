@@ -2,7 +2,7 @@
  <img src="https://github.com/nishant-ai/nishant-ai/blob/main/Nishant.png" />
 </h1>
 
-## Hi! I'm Nishant, a CSE undergrad, with experience of 3 years of programming.
+<h3> Hi! I'm Nishant, a CSE undergrad, with experience of 3 years of programming. <h3>
 <hr>
 <p align="center">
   <code><img title="Python" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg"></code>
