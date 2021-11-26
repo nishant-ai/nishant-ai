@@ -21,7 +21,7 @@
  </p>
  
  <p align="center">
- My Stack 🖥
+ <code>My Stack 🖥</code>
   <code><img title="Python" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg"></code>
   <code><img title="C++" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
   <code><img title="C" height="25" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/c/c-original.svg"></code>
