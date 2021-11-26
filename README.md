@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="https://github.com/nishant-ai/nishant-ai/blob/main/Nishant.png" />
+ <img src="https://github.com/nishant-ai/nishant-ai/blob/main/Python%20Developer.png" />
 </h1>
 
 ![counter](https://enrietaqe0twvws.m.pipedream.net)
