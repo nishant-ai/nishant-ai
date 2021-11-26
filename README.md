@@ -5,9 +5,7 @@
 ![counter](https://enrietaqe0twvws.m.pipedream.net)
 
 <h3> Hi! I'm Nishant Sharma. </h3>
- <br>
 <h3>CSE Undergrad; </h3>
- <br>
 <h3>Python Programmer;</h3>
 <hr>
 
