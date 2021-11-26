@@ -19,7 +19,7 @@
  <p>
 <a href = "https://www.linkedin.com/in/nishantsh20"><h6>Connect via LinkedIn 🔗</h6></a>
  </p>
- <h3 align="center"> My Stack 🖥 </h3>
+ <h2 align="center"> My Stack 🖥 </h2>
  <hr>
  <p align="center">
   <code><img title="Python" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg"></code>
