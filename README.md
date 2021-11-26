@@ -7,6 +7,12 @@
 <h3> Hi! I'm Nishant Sharma. </h3>
 <h3>CSE Undergrad; </h3>
 <h3>Python Programmer;</h3>
+
+<hr>
+<ul>
+  <li>Django Developer.</li>
+  <li>Machine Learning Enthusiast.</li>
+</ul>
 <hr>
 
 <p>
@@ -15,8 +21,6 @@
  <p>
 <a href = "https://www.linkedin.com/in/nishantsh20"><h6>Connect via LinkedIn 🌐</h6></a>
  </p>
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishant-ai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  
  <p align="center">
   <code><img title="Python" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg"></code>
