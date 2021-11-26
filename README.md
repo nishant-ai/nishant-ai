@@ -9,7 +9,6 @@
 <ul>
   <li>Python Programmer.</li>
   <li>Django Developer.</li>
-  <li>Django Developer.</li>
   <li>Machine Learning Enthusiast.</li>
 </ul>
 <hr>
