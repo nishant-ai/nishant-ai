@@ -4,12 +4,11 @@
 
 ![counter](https://enrietaqe0twvws.m.pipedream.net)
 
-<h3> Hi! I'm Nishant Sharma. </h3>
-<h3>CSE Undergrad; </h3>
-<h3>Python Programmer;</h3>
-
+<h3> Hi! I'm <i>Nishant Sharma</i>. </h3>
 <hr>
 <ul>
+  <li>Python Programmer.</li>
+  <li>Django Developer.</li>
   <li>Django Developer.</li>
   <li>Machine Learning Enthusiast.</li>
 </ul>
