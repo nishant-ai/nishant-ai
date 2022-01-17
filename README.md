@@ -44,3 +44,4 @@ Web Developer (Spc. Backend Dev) + Machine Learning Enthusiast
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nishant-ai@outlook.com?subject=Contact%20From%20Github)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=nishant-ai" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishant-ai" />
