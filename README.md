@@ -1,7 +1,7 @@
 
 # Hi, I'm Nishant! 🙋🏻‍♂️
 
-Backend Developer + Machine Learning Enthusiast
+Web Developer (Spc. Backend Dev) + Machine Learning Enthusiast
 
 
 ## My Skill-Set
