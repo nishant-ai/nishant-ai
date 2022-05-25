@@ -44,5 +44,4 @@
 - and, a Machine Learning Enthusiast
 ## 🔗 Contact-Me
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishantsh20/)
-
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nishant-ai@outlook.com?subject=Contact%20From%20Github)
