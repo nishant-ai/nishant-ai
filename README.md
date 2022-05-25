@@ -1,5 +1,5 @@
 
-# Hi, I'm Nishant! 🙋🏻‍♂️
+# Hi, I'm Nishant! 🏻‍♂👋🏻
 
 Web Developer (Spc. Backend Dev) + Machine Learning Enthusiast
 
