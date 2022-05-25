@@ -5,8 +5,9 @@
   <li>Web Developer (Spc. Backend Dev)</li>
   <li>Machine Learning Enthusiast</li>
 </ul>
-
-<img height=320 align="right" src="assets/python.gif"/>         <img height=320 src="assets/github.gif" />
+<p>
+  <img height=320 align="right" src="assets/python.gif"/>         <img height=320 src="assets/github.gif" />
+</p>
 <br>
 
 ## My Skill-Set
