@@ -6,7 +6,7 @@
   <li>Machine Learning Enthusiast</li>
 </ul>
 
-<img height=320 align="right" src="assets/python.gif"/><img height=320 src="assets/github.gif" />
+<img height=320 align="right" src="assets/python.gif"/>         <img height=320 src="assets/github.gif" />
 <br>
 
 ## My Skill-Set
