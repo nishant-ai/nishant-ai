@@ -50,3 +50,4 @@
 
     
 [![Nishant's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=blue-green)](https://github.com/nishant-ai/github-readme-stats)
+[![Nishant's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Naereen&theme=blue-green)](https://github.com/nishant-ai/github-readme-streak-stats)
