@@ -48,8 +48,7 @@
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_nishan.t/)
 [![medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://neeshant.medium.com/)
 
-<br>
     
 ### 😂 Here is a random joke that'll make you laugh!
-    
+<hr>
 ![Jokes Card](https://readme-jokes.vercel.app/api)
