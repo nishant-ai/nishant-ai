@@ -49,4 +49,3 @@
 [![medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://neeshant.medium.com/)
 
 [![Nishant's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Naereen&theme=blue-green)](https://github.com/nishant-ai/github-readme-streak-stats)
-[![Nishant's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=blue-green)](https://github.com/nishant-ai/github-readme-stats)
