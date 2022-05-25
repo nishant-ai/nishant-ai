@@ -52,7 +52,7 @@
 <hr>
 <p align="left">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img height=150 align="center" src="https://raw.githubusercontent.com/nishant-ai/nishant-ai/main/profile-summary-card-output/tokyonight/4-productive-time.svg"/>
+    <img height=150 align="center" src="https://raw.githubusercontent.com/nishant-ai/main/profile-summary-card-output/tokyonight/4-productive-time.svg"/>
   </a>
   <a href="https://github-readme-streak-stats.herokuapp.com/demo">
     <img  height=150 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=nishant-ai&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
