@@ -6,6 +6,9 @@
   <li>Machine Learning Enthusiast</li>
 </ul>
 
+<img height=300 src="assets/github.gif" /><img height=300 align="right" src="assets/python.gif"/>
+<br>
+
 ## My Skill-Set
 
 ### 🛠 Programming languages
