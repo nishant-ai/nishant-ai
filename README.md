@@ -6,7 +6,7 @@
   <li>Machine Learning Enthusiast</li>
 </ul>
 <p>
-  <img height=320 align="right" src="assets/python.gif" style="margin-right: 30px;" />         <img height=320 src="assets/github.gif" />
+  <img height=320 align="right" src="assets/python.gif" style="margin-right: 30px;" />         <img height=320 src="assets/github.gif" style="margin-left: 30px;"/>
 </p>
 <br>
 
