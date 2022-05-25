@@ -1,10 +1,10 @@
 
 # Hi, I'm Nishant! 👋🏻
   
-    <ul>
-      <li>Web Developer (Spc. Backend Dev)</li>
-      <li>Machine Learning Enthusiast</li>
-    </ul>
+
+      - Web Developer (Spc. Backend Dev)
+      - Machine Learning Enthusiast
+
   
 <p>
   <img height=300 align="right" src="assets/python.gif"/>  &nbsp &nbsp   &nbsp &nbsp   &nbsp &nbsp   <img height=300 src="assets/github.gif" "/>
