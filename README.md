@@ -37,11 +37,11 @@
 
 ![sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![linux](	https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-## 🚀 I am
+## 🚀 About Me:
 
-- CS Undergrad
-- Full-Stack Developer
-- Machine Learning Enthusiast
+- I am a CS Undergrad in my sophmore year.
+- I am a Full-Stack Developer
+- and, a Machine Learning Enthusiast
 ## 🔗 Contact-Me
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishantsh20/)
 
