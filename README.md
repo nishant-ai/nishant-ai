@@ -51,9 +51,8 @@
 
 <hr>
 <p align="left">
-[Noen](https://github-readme-streak-stats.herokuapp.com?user=nishant-ai&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 [![](https://raw.githubusercontent.com/nishant-ai/github-stats-badge/master/profile-summary-card-output/radical/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
+![](https://raw.githubusercontent.com/nishant-ai/github-stats-badge/master/profile-summary-card-output/radical/1-repos-per-language.svg)
 </p>
     
 <hr>
