@@ -51,7 +51,9 @@
 
 <hr>
     
-![](https://raw.githubusercontent.com/nishant-ai/github-stats-badge/master/profile-summary-card-output/radical/0-profile-details.svg)  ![](https://raw.githubusercontent.com/nishant-ai/github-stats-badge/master/profile-summary-card-output/radical/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/nishant-ai/github-stats-badge/master/profile-summary-card-output/radical/0-profile-details.svg)  
+
+![](https://raw.githubusercontent.com/nishant-ai/github-stats-badge/master/profile-summary-card-output/radical/1-repos-per-language.svg)  ![](https://raw.githubusercontent.com/nishant-ai/github-stats-badge/master/profile-summary-card-output/radical/4-productive-time.svg)
     
 <hr>
   
