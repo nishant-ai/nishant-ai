@@ -54,6 +54,8 @@
   <a href="https://github-readme-streak-stats.herokuapp.com/demo">
     <img  height=150 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=nishant-ai&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
   </a>
+    
+![statsbadge](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?nishant-ai=vn7n24fzkq&theme=vue)
 </p>
     
 <hr>
