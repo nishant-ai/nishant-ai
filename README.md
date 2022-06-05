@@ -55,6 +55,19 @@
     <img  height=150 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=nishant-ai&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
   </a>
 </p>
+    
+<p align="left">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img height=155 align="center" src="https://raw.githubusercontent.com/nishant-ai/nishant-ai/main/profile-summary-card-output/tokyonight/3-stats.svg"/>
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img height=155 align="center" src="https://raw.githubusercontent.com/nishant-ai/nishant-ai/main/profile-summary-card-output/tokyonight/0-profile-details.svg"/>
+  </a>
+<!--   <a href="https://github-readme-streak-stats.herokuapp.com/demo">
+    <img  height=145 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=samitkapoor&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+  </a> -->
+</p>
+    
 <hr>
   
     Here is a random joke that'll make you laugh!
