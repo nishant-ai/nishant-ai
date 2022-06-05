@@ -50,9 +50,11 @@
 [![medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://neeshant.medium.com/)
 
 <hr>
+    
 ![](https://raw.githubusercontent.com/nishant-ai/github-stats-badge/master/profile-summary-card-output/radical/0-profile-details.svg)
     
 ![](https://raw.githubusercontent.com/nishant-ai/github-stats-badge/master/profile-summary-card-output/radical/1-repos-per-language.svg)
+    
 <hr>
   
     Here is a random joke that'll make you laugh!
