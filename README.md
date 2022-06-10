@@ -51,9 +51,9 @@
 
 <hr>
 <p align="left">
-<img width="99vw" src="https://raw.githubusercontent.com/nishant-ai/github-stats-badge/master/profile-summary-card-output/radical/0-profile-details.svg">
+<img width=900 src="https://raw.githubusercontent.com/nishant-ai/github-stats-badge/master/profile-summary-card-output/radical/0-profile-details.svg">
     
-<img width="33vw" src="https://raw.githubusercontent.com/nishant-ai/github-stats-badge/master/profile-summary-card-output/radical/1-repos-per-language.svg"/><img width="33vw" src="https://raw.githubusercontent.com/nishant-ai/github-stats-badge/master/profile-summary-card-output/radical/4-productive-time.svg">
+<img width=300 src="https://raw.githubusercontent.com/nishant-ai/github-stats-badge/master/profile-summary-card-output/radical/1-repos-per-language.svg"/><img width=300 src="https://raw.githubusercontent.com/nishant-ai/github-stats-badge/master/profile-summary-card-output/radical/4-productive-time.svg">
 </p>
 <hr>
   
