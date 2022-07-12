@@ -59,13 +59,13 @@
 </p>
 <hr>
   
-<div>
+<span>
 ### 🤩 Here is a random joke that'll make you laugh!
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-</div>
-<div>
+</span>
+<span>
 ### 🎻🎼 Listen With Me:
 
 ![Recent Spotify](https://spotify-recently-played-readme.vercel.app/api?user=p3l11rnp6ec1rtfae71x6kepi&count=2)
-</div>
+</span>
