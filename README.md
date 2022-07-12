@@ -62,6 +62,3 @@
     Here is a random joke that'll make you laugh!
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-
-    
-[![Spotify]([https://spotify-github-readme.vercel.app/api/spotify](https://open.spotify.com/embed/track/6aAUh4yRmlLdxZN7c1tFeM?utm_source=generator))](https://open.spotify.com/embed/track/6aAUh4yRmlLdxZN7c1tFeM?utm_source=generator)
