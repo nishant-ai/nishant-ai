@@ -64,8 +64,9 @@
 <img width=200 src="https://raw.githubusercontent.com/nishant-ai/github-stats-badge/master/profile-summary-card-output/radical/4-productive-time.svg">
 </p>
 <hr>
-  
 
+[![@nishantsharma's Holopin board](https://holopin.io/api/user/board?user=nishantsharma)](https://holopin.io/@nishantsharma)
+  
 ### ➕ Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
