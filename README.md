@@ -1,15 +1,9 @@
 
 # Hi, I'm Nishant! 👋🏻
-  
 
-      - Web Developer (Spc. Backend Dev)
-      - Machine Learning Enthusiast
-
-  
-<p>
-  <img height=300 align="right" src="assets/python.gif"/>  &nbsp &nbsp   &nbsp &nbsp   &nbsp &nbsp   <img height=300 src="assets/github.gif" "/>
-</p>
-<br>
+  - Machine Learning
+  - Web Development
+  - DevOps
 
 ## My Skill-Set
 
@@ -45,27 +39,16 @@
     
 ## 🚀 About Me:
 
-- I am a CS Undergrad in my sophmore year.
+- I am a CS Undergrad in my senior year.
 - I am a Full-Stack Developer
 - and, a Machine Learning Enthusiast
+
 ## 🔗 Connect with Me
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishantsh20/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nishant-ai@outlook.com?subject=Contact%20From%20Github)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_nishan.t/)
 [![medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://neeshant.medium.com/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/Nishhant/)
-
-<hr>
-<p align="left">
-<img width=715 src="https://raw.githubusercontent.com/nishant-ai/github-stats-badge/master/profile-summary-card-output/radical/0-profile-details.svg">
-<br>
-<img width=200 src="https://raw.githubusercontent.com/nishant-ai/github-stats-badge/master/profile-summary-card-output/radical/1-repos-per-language.svg"/>
-<img width=297 src="https://github-readme-streak-stats.herokuapp.com?user=nishant-ai&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
-<img width=200 src="https://raw.githubusercontent.com/nishant-ai/github-stats-badge/master/profile-summary-card-output/radical/4-productive-time.svg">
-</p>
-<hr>
-
-[![@nishantsharma's Holopin board](https://holopin.io/api/user/board?user=nishantsharma)](https://holopin.io/@nishantsharma)
   
 ### ➕ Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
