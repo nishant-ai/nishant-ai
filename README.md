@@ -50,7 +50,7 @@
 [![medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://neeshant.medium.com/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/Nishhant/)
   
-### ➕ Here is a random joke that'll make you laugh!
+### ➕ Here is a joke for you
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ### ➕ Listen With Me:
