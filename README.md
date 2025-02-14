@@ -16,6 +16,6 @@ nishant-ai@outlook.com
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/Nishhant/)
 
 
-### ➕ A Technical Joke?
+### ➕ Joke for you
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
