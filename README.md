@@ -1,7 +1,7 @@
 
 # Hey!
 
-- I am a Computer Engineering Graduate Student @NYU.
+- I am a Computer Engineering Graduate @NYU.
 - My main area of study is Artificial Intelligence and Data Science.
 - I am looking for internships / job roles in the same role.
 - I love playing Chess, and occasionally guitar!
