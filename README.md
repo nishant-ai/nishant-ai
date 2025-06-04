@@ -3,7 +3,7 @@
 
 - I am a Computer Engineering Graduate @NYU.
 - My main area of study is Artificial Intelligence and Data Science.
-- I am looking for internships / job roles in the same role.
+- I am looking for internships / jobs in SWE , MLE, Data Scientist roles.
 - I love playing Chess, and occasionally guitar!
 
 ### Contact me here:
